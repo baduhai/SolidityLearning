@@ -1,0 +1,1 @@
+This project follows the Openzeppelin guide to [developing smart contracts](https://docs.openzeppelin.com/learn/developing-smart-contracts?pref=truffle). 
